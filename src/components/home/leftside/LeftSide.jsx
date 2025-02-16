@@ -29,10 +29,8 @@ const LeftSide = () => {
           </Link>
         </div>
         <Link className="leftside__web" to="https://taskinbr.com/">
-          <div className="leftside__web__icon">
-            <HomeIcon className="leftside__web__icon__svg" />
-          </div>
-          <p className="leftside__web__p"></p>
+            <HomeIcon className="leftside__web__svg" />
+          <p className="leftside__web__p">www.taskinbr.com</p>
         </Link>
       </div>
     </>
