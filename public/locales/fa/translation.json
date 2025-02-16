@@ -1,0 +1,55 @@
+{
+  "Home": {
+    "title": "شرکت زیست بازساختی تسکین",
+    "center": {
+      "title": "آیین رونمایی دستروسل",
+      "paper": {
+        "number": "15",
+        "name": "مقاله ها"
+      },
+      "product": {
+        "number": "2",
+        "name": "محصولات"
+      }
+    },
+    "leftside": {
+      "src": "../../assets/Images/home/leftside/logo.png",
+      "center": {
+        "title": "درباره ما",
+        "name": "پیشگامان نوآوری در درمان‌های سلولی و ژنی، پزشکی شخصی‌شده را برای آینده‌ای سالم‌تر متحول می‌کنیم."
+      }
+    }
+  },
+  "change": {
+    "title": "انتخاب زبان",
+    "list": [
+      {
+        "id": 1,
+        "Lanquage": "fa",
+        "name": "فارسی",
+        "src": "../../assets/Images/chnage/iran.jpg"
+      },
+      {
+        "id": 2,
+        "Lanquage": "en",
+        "name": "انگلیسی",
+        "src": "../../assets/Images/chnage/England.jpg"
+      }
+    ]
+  },
+  "webpage": {
+    "item": [
+      {
+        "id": 1,
+        "name": "لینکدین",
+        "link": "https://www.linkedin.com/in/taskin-bioregeneration-4117ab302/"
+      },
+      {
+        "id": 2,
+        "name": "وب سایت شرکت زیست بازساختی تسکین",
+        "link": "https://taskinbr.com/",
+        "src": "../../assets/Images/webpage/logo.png"
+      }
+    ]
+  }
+}

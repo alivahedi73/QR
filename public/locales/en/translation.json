@@ -1,0 +1,54 @@
+{
+  "Home": {
+    "title": "Taskin Bioregeneration",
+    "center": {
+      "title": "Destrocell ceremony",
+      "paper":{
+        "number":"15",
+        "name":"Articles"
+      },
+      "product":{
+        "number":"2",
+        "name":"products"
+      }
+    },"leftside":{
+      "src":"../../assets/Images/home/leftside/logo.png",
+      "center": {
+        "title": "About Us",
+        "name": "Leading innovators in cell & gene therapy, transforming personalized medicine for a healthier future."
+      }
+    }
+  },
+  "change": {
+    "title": "Select Language",
+    "list": [
+      {
+        "id": 1,
+        "Lanquage": "fa",
+        "name": "Farsi",
+        "src": "../../assets/Images/chnage/iran.jpg"
+      },
+      {
+        "id": 2,
+        "Lanquage": "en",
+        "name": "English",
+        "src": "../../assets/Images/chnage/England.jpg"
+      }
+    ]
+  },
+  "webpage": {
+    "item": [
+      {
+        "id": 1,
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/taskin-bioregeneration-4117ab302/"
+      },
+      {
+        "id": 2,
+        "name": "Website Taskinbr",
+        "link": "https://taskinbr.com/",
+        "src": "../../assets/Images/webpage/logo.png"
+      }
+    ]
+  }
+}

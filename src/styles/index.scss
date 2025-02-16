@@ -1,0 +1,33 @@
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-display: swap;
+  src: url(../../public/assets/Fonts/Vazir-Regular.eot) format("eot");
+  src: url(../../public/assets/Fonts/Vazir-Regular.ttf) format("ttf");
+  src: url(../../public/assets/Fonts/Vazir-Regular.woff) format("woff");
+  src: url(../../public/assets/Fonts/Vazir-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: vazirBold;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../../public/assets/Fonts/Vazir-Bold.eot) format("eot");
+  src: url(../../public/assets/Fonts/Vazir-Bold.ttf) format("ttf");
+  src: url(../../public/assets/Fonts/Vazir-Bold.woff) format("woff");
+  src: url(../../public/assets/Fonts/Vazir-Bold.woff2) format("woff2");
+}
+* {
+  font-family: vazir, Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  background-color: #c4c4c4;
+  position: relative;
+}
